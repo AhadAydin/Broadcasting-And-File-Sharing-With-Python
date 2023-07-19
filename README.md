@@ -20,10 +20,6 @@ This Python script utilizes UDP broadcasting to send and receive messages contai
 
 This project requires the `socket` module in Python, which is a built-in module for handling networking operations.
 
-## Contributions
-
-Contributions to this project are welcome. If you have any suggestions, bug reports, or improvements, feel free to open an issue or submit a pull request on the GitHub repository.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
